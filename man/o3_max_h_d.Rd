@@ -3,14 +3,14 @@
 \docType{data}
 \name{o3_max_h_d}
 \alias{o3_max_h_d}
-\title{Tibble con i dati di o3_max_h_d per 5 stazioni della regione BASILICATA}
+\title{Tibble con i dati di o3_max_h_d per 7 stazioni della regione BASILICATA}
 \format{
-Un tibble con 8 colonne e 13629 osservazioni
+Un tibble con 8 colonne e 19105 osservazioni
 }
 \usage{
 o3_max_h_d
 }
 \description{
-Tibble con i dati di o3_max_h_d per 5 stazioni della regione BASILICATA
+Tibble con i dati di o3_max_h_d per 7 stazioni della regione BASILICATA
 }
 \keyword{datasets}
