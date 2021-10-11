@@ -1,6 +1,6 @@
 Package: basilicata
 Title: Dati inquinanti per modello INLA
-4.0.0.0
+Version: 4.0.0.0
 Authors@R: 
     person(given = "Guido",
            family = "Fioravanti",
